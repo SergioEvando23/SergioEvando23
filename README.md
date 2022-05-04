@@ -5,7 +5,7 @@
 <p align="left">
     <a href="https://linkedin.com/in/sergiocosta23" target="blank">
         <img align="left" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sergiocosta23" height="40" width="40" /> 
-        <h3> Sergio Costa</h3>
+        <h3> Sérgio Costa</h3>
     </a>
 </p>
 
