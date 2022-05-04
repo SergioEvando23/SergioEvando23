@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Sérgio Costa</h1>
-<h3 align="center">Um desenvolvedor frontend <img src="https://img.icons8.com/cotton/2x/laptop-coding.png" alt="frontend icon" height="20" width="20"/> do Brasil</h3>
+<h3 align="center">Um desenvolvedor frontend <img src="https://img.icons8.com/cotton/2x/laptop-coding.png" alt="frontend icon" height="26" width="26"/> do Brasil</h3>
 
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
