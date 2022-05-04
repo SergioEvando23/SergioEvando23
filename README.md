@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Sérgio Costa</h1>
+<img src="./banner" alt="header" />
 <h3 align="center">Um desenvolvedor frontend apaixonado do Brasil</h3>
 
 <h3 align="left">Conecte-se comigo: </h3>
