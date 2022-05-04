@@ -10,6 +10,7 @@
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
+<h4> Português Nativo </h4>
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="30" height="30"/> 
