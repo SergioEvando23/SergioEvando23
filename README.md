@@ -4,7 +4,7 @@
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
     <a href="https://linkedin.com/in/sergiocosta23" target="blank">
-        <img align="left" src="https://img.icons8.com/cute-clipart/2x/linkedin.png" alt="sergiocosta23" height="40" width="40" /> 
+        <img align="left" src="https://img.icons8.com/nolan/344/linkedin-circled.png" alt="sergiocosta23" height="40" width="40" /> 
         <h3> Sérgio Costa</h3>
     </a>
 </p>
