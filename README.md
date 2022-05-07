@@ -56,7 +56,7 @@
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> 
     </a> 
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> 
     </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/> 
