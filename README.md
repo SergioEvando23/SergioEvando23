@@ -63,11 +63,11 @@
     </a> 
 </p>
 
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioevando23&show_icons=true&locale=en&layout=compact" alt="sergioevando23" /> 
-    </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioevando23&show_icons=true&locale=en&layout=compact" alt="sergioevando23" /> 
+</p>
 
-    <p> 
-        <img src="https://github-readme-stats.vercel.app/api?username=sergioevando23&show_icons=true&locale=en" alt="sergioevando23" /> 
-    </p>
+<p> 
+<img src="https://github-readme-stats.vercel.app/api?username=sergioevando23&show_icons=true&locale=en" alt="sergioevando23" /> 
+</p>
 
