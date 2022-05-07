@@ -13,6 +13,9 @@
 <h5> Português Nativo </h5>
 <h5> Inglês Básico </h5>
 <p align="left"> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+    </a> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://img.icons8.com/color/344/css3.png" alt="css3" width="30" height="30"/> 
     </a> 
@@ -27,9 +30,6 @@
     </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
     </a> 
     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> 
