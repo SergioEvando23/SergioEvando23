@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Sérgio Costa</h1>
 <h3 align="center">Um desenvolvedor frontend <img src="https://img.icons8.com/cotton/2x/laptop-coding.png" alt="frontend icon" height="26" width="26"/> do Brasil</h3>
 
-<h3 align="left">Conecte-se comigo: </h3>
+<h4 align="left">Conecte-se comigo: </h4>
 <p align="left">
     <a href="https://linkedin.com/in/sergiocosta23" target="blank">
         <img align="left" src="https://img.icons8.com/nolan/344/linkedin-circled.png" alt="sergiocosta23" height="40" width="40" /> 
@@ -9,9 +9,9 @@
     </a>
 </p>
 
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h4 align="left">Idiomas e ferramentas:</h4>
 <h5> Português Nativo </h5>
-<h5> Inglês Básico </h5>
+<h6> Inglês Básico </h6>
 <p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
