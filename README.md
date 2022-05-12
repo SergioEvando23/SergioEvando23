@@ -44,7 +44,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
     </a> 
      <a href="https://www.postman.com/" target="_blank" rel="postman"> 
-        <img src="https://img.icons8.com/dusk/344/postman-api.png" alt="postman" width="30" height="30"/> 
+        <img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="postman" width="30" height="30"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
