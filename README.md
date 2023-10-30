@@ -1,5 +1,7 @@
 <h1 align="left">Olá 👋, sou Sérgio Costa</h1>
-<h3 align="left">Um desenvolvedor fullstack <img src="https://img.icons8.com/cotton/2x/laptop-coding.png" alt="frontend icon" height="26" width="26"/> <img src="https://icons8.com.br/icon/ucDmdolNWVSa/iphone14-pro" height="26" width="26"/> <img src="https://icons8.com.br/icon/ngt9Bn6DsQnB/google-pixel6" height="26" width="26"/> do Brasil</h3>
+<h3 align="left">Um desenvolvedor fullstack <img src="https://img.icons8.com/cotton/2x/laptop-coding.png" alt="frontend icon" height="26" width="26"/> <img src="![image](https://github.com/SergioEvando23/SergioEvando23/assets/62782794/716b3494-468e-4c2d-8ace-85d92642e0ae)
+" height="26" width="26"/> <img src="![image](https://github.com/SergioEvando23/SergioEvando23/assets/62782794/3205dc65-549d-4486-b8c4-1b69eec037d2)
+" height="26" width="26"/> do Brasil</h3>
 
 <h4 align="left">Conecte-se comigo: </h4>
 <p align="left">
